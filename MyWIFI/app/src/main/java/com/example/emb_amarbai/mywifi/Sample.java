@@ -5,4 +5,6 @@ package com.example.emb_amarbai.mywifi;
  */
 
 public class Sample {
+  Sample(){
+  }
 }
